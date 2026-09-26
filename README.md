@@ -6,7 +6,7 @@ I'm interested in how data can help people understand patterns, evaluate perform
 
 ## Current Project
 
-### [TechRevive 2027 Analytics](https://github.com/bw036536-afk/techrevive-2027-analytics)
+### [TechRevive 2027 Analytics](https://github.com/bw036536-afk/techrevive-2027-analytics-simulation)
 **Status: In progress**
 
 A project exploring sales and website activity for a controller repair, upgrade, and refurbishment business.
